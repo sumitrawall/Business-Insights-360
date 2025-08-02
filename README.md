@@ -50,12 +50,23 @@ I have created 5 different report views in this report which serves the need of 
 The first page of the report is a home page with the navigation to all other views and a summary of each page so a user can directly access the report they need to look at.
 
 ### Finance View
+
+<img width="1255" height="702" alt="1" src="https://github.com/user-attachments/assets/182ce6f4-79b0-4fec-9145-515e68654e1e" />
+
 The Finance View shows the P & L statements. The Top Performing and Bottom Performing products and customers. Different product segment performances in different regions. The most important metric here is it shows the Year on Year comparison of P & L in a single view.
 
 
 
 ### Sales View
+
+<img width="1252" height="706" alt="2" src="https://github.com/user-attachments/assets/5e94ff67-b3a7-433b-8f54-09691652f9cd" />
+
+
 The sales view is for the sales team to drill down the performance of each product and customer in individual regions. Similar to the finance view it does have the same filters to provide in-depth analysis of sales performance.
 
 ### Marketing View
+
+<img width="1256" height="707" alt="3" src="https://github.com/user-attachments/assets/7ad8c3dc-b07e-4ae2-8453-81ab74e6f53d" />
+
+
 Marketing View contains Gross Margin %, Net Profit %, Operational Expenses and Cost Of Goods Sold which are important financial stats that marketing should be aware of. This helps in deciding the marketing budget for each product in a particular market. Marketing will also be aware of the potential customers and potential market and whether there is a scope for business or not.
